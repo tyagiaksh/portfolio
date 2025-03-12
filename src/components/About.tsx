@@ -16,7 +16,7 @@ export const About: React.FC<{ inView: boolean }> = ({ inView }) => {
         <div className="grid md:grid-cols-2 gap-8 items-center">
           <div className="aspect-square rounded-2xl overflow-hidden">
             <img
-              src="https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d"
+              src=""
               alt="Profile"
               className="w-full h-full object-cover"
             />
